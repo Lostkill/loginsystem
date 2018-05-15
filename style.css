@@ -1,0 +1,22 @@
+.btn-login{
+    color: #77b3d4;
+    background-color: transparent;
+    border-color: #77b3d4;  
+}
+
+.btn-login:hover{
+    color: #00d400;
+    background-color: transparent;
+    border-color: #00d400;  
+}
+
+.btn-login:active:focus{
+    color: orange;
+    background-color: transparent;
+    border-color: orange;  
+}
+
+.toRegister:hover{
+    color: #00d400;
+    text-decoration: none;
+}
